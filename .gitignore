@@ -1,0 +1,41 @@
+# Binaries
+ccs
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build
+/dist
+/bin
+
+# Go
+vendor/
+*.test
+*.out
+coverage.out
+*.prof
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Config (if contains sensitive data)
+# config.json
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# claude-code
+.claude/*
+CLAUDE.md
+docs/*
