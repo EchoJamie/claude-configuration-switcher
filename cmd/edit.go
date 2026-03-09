@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/exec"
 
-	"ccs/pkg/config"
+	"github.com/EchoJamie/ccs/pkg/config"
 
 	"github.com/spf13/cobra"
 )

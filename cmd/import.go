@@ -5,9 +5,9 @@ import (
 	"log/slog"
 	"os"
 
-	"ccs/pkg/config"
-	"ccs/pkg/importer"
-	"ccs/pkg/util"
+	"github.com/EchoJamie/ccs/pkg/config"
+	"github.com/EchoJamie/ccs/pkg/importer"
+	"github.com/EchoJamie/ccs/pkg/util"
 
 	"github.com/AlecAivazis/survey/v2"
 	"github.com/spf13/cobra"

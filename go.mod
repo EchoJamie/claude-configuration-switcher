@@ -1,10 +1,9 @@
-module ccs
+module github.com/EchoJamie/ccs
 
 go 1.24.0
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.0.7
-	github.com/mattn/go-sqlite3 v1.14.18
 	github.com/spf13/cobra v1.8.0
 	modernc.org/sqlite v1.46.1
 )

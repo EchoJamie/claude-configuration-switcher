@@ -5,8 +5,8 @@ import (
 	"log/slog"
 	"os"
 
-	"ccs/pkg/config"
-	"ccs/pkg/util"
+	"github.com/EchoJamie/ccs/pkg/config"
+	"github.com/EchoJamie/ccs/pkg/util"
 
 	"github.com/spf13/cobra"
 )

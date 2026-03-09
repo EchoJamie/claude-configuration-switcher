@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"ccs/pkg/util"
+	"github.com/EchoJamie/ccs/pkg/util"
 )
 
 type Config struct {

@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"ccs/cmd"
+	"github.com/EchoJamie/ccs/cmd"
 )
 
 func main() {
